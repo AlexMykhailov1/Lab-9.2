@@ -1,0 +1,4 @@
+﻿  Lab9.2.cpp
+Y:\Programming\Projects\Lab9.2\Lab9.2\Lab9.2.cpp(525,12): warning C4101: 'average': unreferenced local variable
+Y:\Programming\Projects\Lab9.2\Lab9.2\Lab9.2.cpp(524,9): warning C4101: 'kurs': unreferenced local variable
+  Lab9.2.vcxproj -> Y:\Programming\Projects\Lab9.2\Debug\Lab9.2.exe
